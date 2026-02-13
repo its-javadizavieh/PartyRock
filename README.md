@@ -11,9 +11,13 @@ PDF exports of the PartyRock course materials.
 
 **Seyedhossein Javadizavieh**
 
-📧 seyedhossein.javadizavieh@its-ictpiemonte.it
+📧 <seyedhossein.javadizavieh@its-ictpiemonte.it>
 
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/seyedhosseinjavadizavieh)
+
+## Link
+
+🔗 [Google Sheet](https://docs.google.com/spreadsheets/d/1gni3zi5DspOdqvthqlrSsBfyEkqEg2K3SIHg_jeUiUQ/edit?usp=sharing)
 
 ## Notes
 
